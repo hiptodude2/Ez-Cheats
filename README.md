@@ -28,3 +28,7 @@ For any questions or suggestions, feel free to contact the project maintainer on
 ---
 
 > **Warning:** Cheating in games is against the terms of service of most games and can result in permanent bans from the game. Use this software responsibly and be aware of the risks involved.
+
+---
+
+**Enjoy using Ez-Cheats! If you find this project helpful, please consider giving it a star on GitHub.**
